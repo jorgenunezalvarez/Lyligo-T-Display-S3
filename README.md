@@ -4,6 +4,8 @@ This is another ESP32 Internet Weather station. This time I am using affordable 
 ## Parts used:
 LilyGO T-Display S3 [https://www.lilygo.cc/0cAg0r ](https://www.lilygo.cc/0cAg0r )   
 
+YOUTUBE: https://www.youtube.com/watch?v=VntDY9Mg7T0
+
 ## YOUTUBE VIDEO (click on image below)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VntDY9Mg7T0
 " target="_blank"><img src="http://img.youtube.com/vi/VntDY9Mg7T0/0.jpg" 
