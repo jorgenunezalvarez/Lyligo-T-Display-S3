@@ -6,6 +6,9 @@ LilyGO T-Display S3 [https://www.lilygo.cc/0cAg0r ](https://www.lilygo.cc/0cAg0r
 
 YOUTUBE: https://www.youtube.com/watch?v=VntDY9Mg7T0
 
+API: https://home.openweathermap.org/
+(here you can make you free API Key, keep in mind that it needs few hours for activation of your key)
+
 ## YOUTUBE VIDEO (click on image below)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VntDY9Mg7T0
 " target="_blank"><img src="http://img.youtube.com/vi/VntDY9Mg7T0/0.jpg" 
